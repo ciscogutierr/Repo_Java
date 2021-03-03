@@ -33,11 +33,9 @@ public class Homework2 {
 //            boolean DoesTheSunRiseOnTheWest = false;
 //            System.out.println("Does the Sun Rise on the West? " + DoesTheSunRiseOnTheWest);
 
-//    public static void main(String[] args) {
-//        char FirstNameInitial= 'F';
-//        char LastNameInitial= 'G';
-//        System.out.println("The initials of my last name are: " +FirstNameInitial+LastNameInitial);
-//    public static void main(String[] args) {
-//        double BalinBankAct= 500.75;System.out.println("Balance in Bank Acount is " +BalinBankAct);
+    public static void main(String[] args) {
+        char FirstNameInitial= 'F';
+        char LastNameInitial= 'G';
+        System.out.println("The initials of my last name are: " +FirstNameInitial+LastNameInitial);
     }
 }
